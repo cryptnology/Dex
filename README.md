@@ -2,6 +2,8 @@
 
 A DApp to showcase my developer skills on the Ethereum blockchain ecosystem. This decentralised exchange can trade several mock cryptocurrencies of DIA, BAT, ZRX and REP. The DApp has a clean UI, displaying the trades with an animated graphical interface. (Only for educational, experimental purposes and not for a real deployment on a test network)
 
+![Dex Cryptocurrencey Exchange](/client/public/dex.png 'Dex')
+
 ## Installation
 
 Please make sure you first have the [MetaMask](https://metamask.io/) browser extension installed so you can interact with the DApp.
